@@ -255,7 +255,7 @@ ephone-dn 3
 ephone-dn 4
   number 7244
 ephone-dn 5
-  number 7255
+  number 7270
 ephone-dn 6
   number 7266
 ephone-dn 7
@@ -660,6 +660,7 @@ exit
           
 sip-ua
 sip-server ipv4:192.168.k.1
+
 
 
 
